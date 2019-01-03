@@ -1,7 +1,7 @@
 # Vanilla Neural Network Implementation
 
 After fininshing my AI Course at Colorado College, I wanted to gain a better idea of what occurs
-"Under the hood" of a Neural Network due to the time constraint of the bloack plan it was necessary to 
+"Under the hood" of a Neural Network due to the time constraint of the block plan it was necessary to 
 opt out of explaining neural networks in concrete detail in order to cover the necessary material in the 
 syllabus. So over the fall break I decided to study Neural Networks concretely.
 
@@ -11,4 +11,4 @@ syllabus. So over the fall break I decided to study Neural Networks concretely.
 import numpy as np
 ```
 In this implementation I will only be using Numpy to create the Neural Network
-I will include explanations and code snippets. 
+I will include explanations and code snippets.I will update the README to reflect the documentation in the code at a later date. 
